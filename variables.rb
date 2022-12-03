@@ -13,3 +13,11 @@ result = 2.02
 at_vet = true 
 bill_paid = false
 is_angry = true
+
+cat_name = "Fluffy"
+dog_name = "Sparky"
+first_name = "Jane Doe"
+
+puts cat_name
+puts dog_name
+puts "Hi " + first_name
